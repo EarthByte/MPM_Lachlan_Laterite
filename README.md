@@ -1,2 +1,2 @@
 # NSW_MPM
-Prospectivity mapping of Ni-Co laterites
+Prospectivity mapping of Ni-Co laterites in NSW
