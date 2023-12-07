@@ -1,2 +1,3 @@
-# NSW_MPM
-Prospectivity mapping of Ni-Co laterites in NSW
+# Prospectivity mapping of Ni-Co laterites in the Lachlan Orogen
+
+
