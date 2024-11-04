@@ -1,4 +1,4 @@
-# Prospectivity Mapping of Ni-Co Laterites in the Lachlan Orogen
+# Prospectivity Mapping of Lateritic Ni-Co Mineralisation in the Lachlan Orogen
 
 [![DOI](https://zenodo.org/badge/590281373.svg)](https://zenodo.org/doi/10.5281/zenodo.10681931)
 
