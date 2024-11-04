@@ -1,0 +1,28 @@
+Feature,Importance,Variance
+AlOH_Group_Content_correlation,0.13368,0.002932924682010565
+MetamorphicFacies_Benambran_Subgreenschist facies,0.1268,0.0014516962616128557
+Magmap2019-grid-tmi_rtp_enhancement-Phase-AWAGS_MAG_2019_mean,0.11489,0.0033637089508807456
+RockUnits_CSP_Clastic sediment,0.08049,0.0017455878485519902
+Gravmap2016-grid-grv_cscba_std,0.07641,0.0014461277020770761
+RockUnits_CSP_Null,0.05709,0.0006567945830162407
+MetamorphicBoundaries_Unconformities,0.04495,0.001019992491684394
+RockUnitBndyFaults_LAO_Faulted boundary,0.03978,0.0004519470176014036
+Radmap2019-grid-dose_terr-AWAGS_RAD_2019_mean,0.03026,0.0008308358744365633
+Gravmap2016-grid-grv_cscba_mean,0.02731,0.00016006870133699334
+Gravmap2019-grid-grv_cscba_1vd-IncludesAirborne_std,0.02194,0.0004488462396850177
+Magmap2019-grid-tmi_rtp_enhancement-PGrav-AWAGS_MAG_2019_mean,0.02133,0.00021328008335003742
+FeOH_Group_Content_mean,0.02124,4.7756163666189096e-05
+Silica_Index_dissimilarity,0.02115,7.384510457749554e-05
+Gravmap2019-grid-grv_cscba_1vd_dissimilarity,0.01987,0.0003698243908406116
+Opaque_Index_correlation,0.0194,0.0002345314686916743
+MetamorphicBoundaries_MetamorphicBndys,0.01811,0.00037324450667122115
+Ferric_Oxide_Content_dissimilarity,0.01575,8.635738135351765e-05
+Silica_Index_correlation,0.01563,0.00024652175212785206
+IntrusionsBndys_UnconformableBndys,0.01443,8.533741824662321e-05
+Green_Vegetation_correlation,0.01357,0.00031539476163761266
+Gravmap2019-grid-dem_ellips_dx,0.0118,0.0008625396982119254
+Gravmap2019-grid-grv_cscba_1vd_std,0.01176,0.0001869403310006718
+Magmap2019-grid-tmi_rtp_05vd-AWAGS_MAG_2019_correlation,0.01173,0.00022147512659181513
+Gravmap2019-grid-grv_fa_correlation,0.01073,3.5247847433744756e-05
+Magmap2019-grid-tmi_1vd-AWAGS_MAG_2019_correlation,0.0101,0.0003231332690626289
+Gravmap2019-grid-grv_fa_dissimilarity,0.00978,2.8694901638867226e-05

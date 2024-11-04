@@ -1,0 +1,62 @@
+Feature,Importance,Cumulative Importance,Variance
+AlOH_Group_Content_correlation,0.135,0.135,0.000
+RockUnits_CSP_Clastic sediment,0.080,0.215,0.000
+Green_Vegetation_correlation,0.069,0.283,0.001
+RockUnitBndyFaults_LAO_Faulted boundary,0.060,0.343,0.000
+Radmap2019-grid-dose_terr-AWAGS_RAD_2019_mean,0.054,0.397,0.000
+Ferric_Oxide_Content_dissimilarity,0.053,0.450,0.001
+FeOH_Group_Content_mean,0.047,0.496,0.002
+Radmap2019-grid-thk_ratio-AWAGS_RAD_2019_mean,0.045,0.541,0.000
+Silica_Index_dissimilarity,0.043,0.584,0.000
+RockUnits_CSP_Null,0.043,0.627,0.000
+Opaque_Index_correlation,0.034,0.661,0.000
+Magmap2019-grid-tmi_rtp_05vd-AWAGS_MAG_2019_correlation,0.032,0.693,0.001
+Silica_Index_correlation,0.023,0.716,0.000
+Magmap2019-grid-tmi_rtp_05vd-AWAGS_MAG_2019_mean,0.023,0.739,0.000
+Radmap2019-grid-dose_terr-AWAGS_RAD_2019_std,0.022,0.760,0.000
+Ferric_Oxide_Content_std,0.019,0.779,0.001
+Magmap2019-grid-tmi_1vd-AWAGS_MAG_2019_correlation,0.018,0.798,0.000
+RockUnits_LAO_Sandstone,0.018,0.816,0.001
+Silica_Index_mean,0.017,0.833,0.000
+Magmap2019-grid-tmi_1vd-AWAGS_MAG_2019_std,0.017,0.849,0.000
+AlOH_Group_Content_mean,0.014,0.863,0.000
+RockUnitBndyFaults_CSP_Geological boundary,0.012,0.876,0.000
+Ferric_Oxide_Composition_correlation,0.012,0.888,0.000
+Radmap2019-grid-thk_ratio-AWAGS_RAD_2019_dissimilarity,0.012,0.899,0.001
+Ferric_Oxide_Composition_mean,0.011,0.911,0.000
+Ferric_Oxide_Content_correlation,0.010,0.920,0.001
+Gypsum_Index_correlation,0.008,0.928,0.000
+Radmap2019-grid-thk_ratio-AWAGS_RAD_2019_std,0.008,0.936,0.000
+Magmap2019-grid-tmi_1vd-AWAGS_MAG_2019_mean,0.007,0.943,0.000
+Radmap2019-grid-u_conc-AWAGS_RAD_2019_correlation,0.007,0.950,0.000
+Radmap2019-grid-uk_ratio-AWAGS_RAD_2019_dissimilarity,0.006,0.956,0.000
+Radmap2019-grid-dose_terr-AWAGS_RAD_2019_correlation,0.006,0.962,0.000
+Radmap2019-grid-u_conc-AWAGS_RAD_2019_dissimilarity,0.005,0.968,0.000
+Magmap2019-grid-tmi_1vd-AWAGS_MAG_2019_dissimilarity,0.005,0.973,0.000
+Ferric_Oxide_Composition_std,0.005,0.979,0.001
+Radmap2019-grid-dose_terr-AWAGS_RAD_2019_dissimilarity,0.005,0.984,0.000
+Radmap2019-grid-thk_ratio-AWAGS_RAD_2019_correlation,0.005,0.989,0.001
+RockUnits_LAO_Ultramafic igneous rock,0.005,0.994,0.000
+RockUnits_LAO_Granite,0.003,0.997,0.000
+RockUnits_LAO_Serpentinite,0.001,0.998,0.000
+RockUnits_LAO_Siliciclastic sedimentary rock,0.001,0.999,0.000
+RockUnits_LAO_Siltstone,0.000,0.999,0.000
+RockUnits_LAO_Pyroclastic rock,0.000,0.999,0.000
+RockUnits_LAO_Shale,0.000,0.999,0.000
+RockUnits_CSP_Saprolite,0.000,1.000,0.000
+RockUnits_LAO_Igneous rock,0.000,1.000,0.000
+RockUnits_LAO_Granodiorite,0.000,1.000,0.000
+RockUnits_LAO_Dacite,0.000,1.000,0.000
+RockUnits_LAO_Conglomerate,0.000,1.000,0.000
+RockUnits_CSP_Silt,0.000,1.000,0.000
+RockUnits_LAO_Basalt,0.000,1.000,0.000
+RockUnits_CSP_Ferricrete,0.000,1.000,0.000
+RockUnits_CSP_Sand,0.000,1.000,0.000
+RockUnits_LAO_Andesite,0.000,1.000,0.000
+RockUnits_LAO_Limestone,0.000,1.000,0.000
+RockUnits_LAO_Mudstone,0.000,1.000,0.000
+RockUnits_LAO_Phyllite,0.000,1.000,0.000
+RockUnits_LAO_Pyroxenite,0.000,1.000,0.000
+RockUnits_LAO_Rhyolite,0.000,1.000,0.000
+RockUnits_LAO_Sedimentary rock,0.000,1.000,0.000
+RockUnits_LAO_Tuff and lapilli tuff,0.000,1.000,0.000

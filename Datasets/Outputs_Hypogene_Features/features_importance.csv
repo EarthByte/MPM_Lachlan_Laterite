@@ -1,0 +1,46 @@
+Feature,Importance,Variance
+AlOH_Group_Content_correlation,0.13324,0.0015419214337472145
+Magmap2019-grid-tmi_rtp_enhancement-Phase-AWAGS_MAG_2019_mean,0.1246,6.554234852339152e-06
+MetamorphicFacies_Benambran_Subgreenschist facies,0.11697,0.00040970288006355514
+RockUnitBndyFaults_LAO_Faulted boundary,0.07286,2.9919325771379846e-05
+Gravmap2016-grid-grv_cscba_std,0.06525,0.0005194615663684933
+MetamorphicBoundaries_Unconformities,0.06511,0.0007740792409615346
+MgOH_Group_Content_mean,0.06275,0.00028879418995197146
+Magmap2019-grid-tmi_rtp_enhancement-PGrav-AWAGS_MAG_2019_mean,0.05051,5.129414907711129e-05
+Gravmap2016-grid-grv_cscba_mean,0.04828,5.5264350610442715e-05
+IntrusionsBndys_UnconformableBndys,0.04148,3.868402514537728e-05
+RockUnits_LAO_Sandstone,0.02876,2.5815960980835268e-05
+Magmap2019-grid-tmi_rtp_enhancement-PGrav-AWAGS_MAG_2019_dissimilarity,0.0221,0.0010497376000110047
+Opaque_Index_correlation,0.02072,0.00020759899486213609
+MetamorphicFacies_Benambran_Greenschist facies,0.01768,1.1803438227903363e-05
+Magmap2019-grid-tmi_rtp_enhancement-Phase-AWAGS_MAG_2019_dissimilarity,0.01745,0.0009970480671847904
+RockUnitBndyFaults_LAO_Geological boundary,0.01456,8.59828526375061e-06
+MetamorphicBoundaries_Faults,0.01407,4.962126464905802e-06
+RockUnitBndyFaults_CSP_Geological boundary,0.01206,0.0011279416953611067
+Magmap2019-grid-tmi_rtp_enhancement-Phase-AWAGS_MAG_2019_std,0.012,2.7592043651395998e-05
+Opaque_Index_mean,0.01099,0.00029445336032524113
+Magmap2019-grid-tmi_rtp_enhancement-Phase-AWAGS_MAG_2019_correlation,0.00936,8.500247072358743e-05
+AlOH_Group_Content_mean,0.00872,9.214260952489942e-05
+RockUnitBndyFaults_LAO_Unconformable boundary,0.0083,0.0014066372574620734
+Gravmap2016-grid-grv_ir_mean,0.00625,2.662014684495074e-07
+Gravmap2016-grid-grv_cscba_correlation,0.00465,3.4539425795804846e-07
+RockUnits_LAO_Granite,0.00376,0.00011755939000440069
+RockUnits_LAO_Ultramafic igneous rock,0.00357,4.5951686030577e-06
+RockUnits_LAO_Siliciclastic sedimentary rock,0.00094,0.0001912796689458627
+RockUnits_LAO_Serpentinite,0.00062,6.110887306247412e-06
+MetamorphicFacies_Benambran_Upper Greenschist,0.00047,1.7202570163579373e-06
+RockUnits_LAO_Pyroclastic rock,0.00045,8.388518609505569e-16
+RockUnits_LAO_Shale,0.00036,3.454796422616726e-07
+RockUnits_LAO_Granodiorite,0.00035,1.7619924439164104e-08
+RockUnits_LAO_Siltstone,0.00032,3.412263450704679e-07
+RockUnits_LAO_Igneous rock,0.00028,0.0
+RockUnits_LAO_Dacite,7e-05,3.918949877269751e-09
+RockUnits_LAO_Conglomerate,5e-05,5.523639104619131e-07
+RockUnits_LAO_Rhyolite,2e-05,1.2396255925863785e-09
+RockUnits_LAO_Phyllite,1e-05,0.0
+RockUnits_LAO_Tuff and lapilli tuff,1e-05,7.3763883548143424e-09
+RockUnits_LAO_Mudstone,0.0,2.198452310495678e-08
+RockUnits_LAO_Andesite,0.0,2.8165131505180145e-07
+RockUnits_LAO_Sedimentary rock,0.0,0.0
+RockUnits_LAO_Monzonite,0.0,0.0
+RockUnits_LAO_Pyroxenite,0.0,1.9857533997038326e-07
