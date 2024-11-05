@@ -1,6 +1,6 @@
 # Prospectivity Mapping of Lateritic Ni-Co Mineralisation in the Lachlan Orogen
 
-[![DOI](https://zenodo.org/badge/590281373.svg)](https://zenodo.org/doi/10.5281/zenodo.10681931)
+[![DOI](https://zenodo.org/badge/590281373.svg)](https://doi.org/10.5281/zenodo.10681931)
 
 This repository contains the notebooks and supplementary files required to reproduce the results presented in a paper by Wake et al. The notebook enables users to create a prospectivity map for Lateritic Nickel-Cobalt Mineralisation in the Lachlan Orogen, New South Wales (NSW), Australia.
 
