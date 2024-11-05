@@ -25,10 +25,10 @@ The final output is a GeoTIFF file that shows the probability of the targeted mi
   title = {Lateritic Ni-Co prospectivity modeling in eastern Australia using an enhanced generative adversarial network and positive-unlabeled bagging},
   author = {Wake, N. and Farahbakhsh, Ehsan and M{\"u}ller, R. Dietmar},
   year = {2024},
-  journal = {?},
+  journal = {Natural Resources Research},
   volume = {?},
   number = {?},
   pages = {?},
-  doi = {?},
+  doi = {10.1007/s11053-024-10423-4},
 }
 ```
